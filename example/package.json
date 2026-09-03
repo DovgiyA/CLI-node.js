@@ -1,0 +1,9 @@
+{
+  "name": "migrate-example-consumer",
+  "private": true,
+  "type": "module",
+  "description": "Пример проекта-потребителя @alex/migrate",
+  "dependencies": {
+    "@alex/migrate": "file:.."
+  }
+}
